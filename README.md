@@ -42,7 +42,7 @@ Creates user accounts in bulk from a CSV exported by HR.
 .\Scripts\New-BulkUsers.ps1 -CsvPath .\new_hires.csv           # create accounts
 ```
 
-![New-BulkUsers output](screenshots/new-bulkusers-output.png)
+![New-BulkUsers output](Screenshots/new-bulkusers-output.png)
 
 ## What I learned
 
