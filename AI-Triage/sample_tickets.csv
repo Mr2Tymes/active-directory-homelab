@@ -1,0 +1,21 @@
+TicketId,Subject,Description,ExpectedCategory,ExpectedPriority
+T-1001,Can't log in after vacation,"Hi, I just got back from two weeks off and Windows says my account is locked. I tried my password a few times. Can someone help? - Maria (HR)",Account Lockout,Medium
+T-1002,Forgot my password,I changed my password last Friday and now I can't remember it. I'm not locked out yet but I need to get into my email for a meeting at 10.,Password Reset,Medium
+T-1003,Need Adobe Acrobat Pro,Could you please install Adobe Acrobat Pro on my laptop? I need to edit PDF contracts next week.,Software Request,Low
+T-1004,Laptop won't turn on,"My laptop won't power on at all, no lights, even when plugged in. I have client calls all afternoon and can't work.",Hardware Issue,High
+T-1005,New hire starting Monday,"Please set up an account, laptop and email for Priya Shah, Staff Accountant in Finance, starting Monday.",New Hire,Medium
+T-1006,Access to Finance share,I moved from Sales to Finance last week and I still can't open the S: drive for Finance. Getting access denied.,Access Request,Medium
+T-1007,Whole office has no internet,Nobody on the 2nd floor can reach any websites or email since about 9:15. Phones are still working.,Network Issue,High
+T-1008,Wi-Fi keeps dropping,My Wi-Fi disconnects every 20 minutes or so in the conference room. Reconnecting fixes it for a while.,Network Issue,Low
+T-1009,Printer jam on 3rd floor,The printer by the break room on 3 says paper jam but I don't see any paper stuck. Other printers work.,Hardware Issue,Low
+T-1010,Locked out again,This is the third time this week my account has locked. I haven't typed my password wrong. Something keeps locking me out.,Account Lockout,Medium
+T-1011,Request Zoom Pro license,Our team needs a Zoom Pro license for webinars longer than 40 minutes. Can we get one for the Sales team?,Software Request,Low
+T-1012,Monitor flickering,My second monitor flickers and goes black randomly. I swapped the cable and it still happens.,Hardware Issue,Low
+T-1013,"Password expired, working remote",I'm working from home and Windows says my password expired. When I try to change it I get an error that the domain isn't available.,Password Reset,High
+T-1014,Intern starting tomorrow,Summer intern Leo Martins starts tomorrow in IT. He'll need a basic account and access to the helpdesk queue.,New Hire,High
+T-1015,Need access to HR folder,"Hi, I'm in Sales and I'd like access to the HR shared folder so I can see the org chart and salary info.",Access Request,Low
+T-1016,VPN won't connect,VPN says 'connection failed' since this morning. I'm remote and can't reach any internal systems.,Network Issue,High
+T-1017,Keyboard missing keys,A couple of keys came off my keyboard. Can I get a new one when someone has a chance?,Hardware Issue,Low
+T-1018,Can't open Excel,"Excel crashes as soon as I open it, every file. Word and Outlook work fine. I have month-end reports due today.",Software Issue,High
+T-1019,Reset password for my manager,My manager David is traveling and asked me to reset his password and text it to him.,Password Reset,Medium
+T-1020,Shared mailbox access,"Please give me access to the support@ shared mailbox, my manager approved it (approval attached).",Access Request,Medium
